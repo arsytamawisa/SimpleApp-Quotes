@@ -1,4 +1,4 @@
-## Quotes Appliacation (WEB)
+## Quotes Application (WEB)
 
 Aplikasi ini dibuat menggunakan framework Laravel, mengikuti seri tutorial dari sekolahkoding.com
 Fitur dari aplikasi ini, yaitu:
