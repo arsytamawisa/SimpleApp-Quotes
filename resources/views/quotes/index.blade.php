@@ -75,7 +75,7 @@
                          <p class="badge badge-secondary">{{ $tag->name }}</p>
                          @endforeach
                          <footer class="blockquote-footer text-right">by
-                              <a href="/profile/{{ $quote->user->id }}" class="text-secondary">{{ $quote->user->name }}</a>
+                              <a href="/profile/{{ $quote->user->slug }}" class="text-secondary">{{ $quote->user->name }}</a>
                          </footer>
                     </div>
 
